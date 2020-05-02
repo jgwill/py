@@ -15,3 +15,6 @@ Py is a platform using the LAMPNode Dockerizing principle.  It aim for technolog
 
 ## Useful command
 * Link Blocks in a theme: > cd wp-themes/mytheme ; ln -sf ../twentynineteen/blocks ./blocks
+
+The current branch of development of the Py platform is : [Nodalpingo](https://github.com/GuillaumeIsabelleX/docker-compose-lamp/tree/nodalpingo).
+
